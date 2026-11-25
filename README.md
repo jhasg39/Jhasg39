@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, meu nome é Tiago 👋
+Cursando Análise e Desenvolvimento de Sistemas
+
+### Tecnologias
+[![Minhas Skills](https://skillicons.dev?1=python,mysql,git,github,vscode)](https://skillicons.dev)
 
 <!--
 **jhasg39/Jhasg39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
